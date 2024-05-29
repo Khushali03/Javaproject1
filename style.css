@@ -1,0 +1,125 @@
+                .heading{
+                    padding-top: 11px;
+                }
+                .div{
+                    height: 20px;
+                    background-color: #2A646C;
+                    width: 60%;
+                    margin: auto;
+                }
+                .form{
+                    background-color: #C4D8E2;
+                    height: 500px;
+                    width: 70%;
+                    margin: auto;
+                    padding-left: 10px;
+                    padding-right: 10px;
+                    position: relative;
+                    border-radius: 5px;
+                }
+                .para1{
+                    height:20px;
+                    color: #5D8AA8;
+                    font-family: sans-serif;
+                    font-size: 12px;
+                }
+                .para2{
+                    width:50%;
+                }
+                .para3{
+                    width: 100%;
+                    margin-top: 5px;
+                }
+                .span1{
+                    font-weight: bold;
+                    font-family: "Times New Roman";
+                    font-size: 16px;
+                    color: #5D8AA8;
+                    margin-right: 5px;
+                }
+                .span2{
+                    color: #5072A7;
+                    font-weight: bold;
+                    font-family: "Times New Roman";
+                    font-size: 22px;
+                }
+                .span3, .span4{
+                    font-weight: bold;
+                    font-style: oblique;
+                    text-transform: uppercase;
+                    font-size: 18px;
+                    color: white;
+                }
+                .span3{
+                    margin-right: 5px;
+                }
+                .span4{
+                    color: white;
+                    font-style: underline;
+                    font-size: 10px;
+                    position: absolute;
+                    right: 10px;
+                    bottom: 20px;
+                }
+                .register{
+                    margin: 9px;
+                    width: 50%;
+                    position: relative;
+                }
+                .data{
+                    margin: 8px;
+                    width: 64%;
+                    height: 290px;
+                    position: absolute;
+                    right: 10px;
+                    top: 80px;
+                    background-color: #5072A7;
+                    padding-left: 10px;
+                    padding-right: 10px;
+                }
+                .submitbutton{
+                    border: 1px solid black;
+                    width: 20%;
+                    height: 30px;
+                    margin-left: 30px;
+                    cursor: pointer;
+                  
+                }
+               
+                .checkbox{
+                    color: white;
+                }
+                .title
+                {
+                    font-size: 14px;
+                   
+                }
+                input{
+                    padding: 3px;
+                }
+                .tbl-student{
+                    background-color: whitesmoke;
+                }
+                table th{
+                    padding:10px;
+                    font-style: oblique;
+                    text-transform: capitalize;
+                   
+                } 
+                table td{
+                    padding:7px;
+                }
+                table tr .ed{
+                    color: blue;
+                }
+                h1{
+                    text-align: center;
+                    text-transform: uppercase;
+                }
+                
+                .back{
+                    position: absolute;
+                    right: 15px;
+                }
+           
+

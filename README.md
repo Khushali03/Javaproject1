@@ -3,5 +3,5 @@ In this Java project we can registerd data and fetch details in a table also per
  <br/> <br/>
 Using NetBeans IDE 8.2 <br/> 
 Project name : - Studnt Course Registartion <br/>
-Databas name:- Stud_info.sql <br/>
+Database name:- Stud_info.sql <br/>
  <br/>
